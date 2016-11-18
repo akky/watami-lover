@@ -8,7 +8,7 @@
 
 With this Chrome extension, when you visit a page having Watami-owned restaurants, it emphasizes the text.
 
-For the current matched restaurant names, please see the source code [domains.js](https://github.com/akky/watami-lover/blob/master/restaurants.js).
+For the current matched restaurant names, please see the source code [restaurants.js](https://github.com/akky/watami-lover/blob/master/restaurants.js).
 
 ## limitations
 
