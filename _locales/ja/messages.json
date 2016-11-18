@@ -1,0 +1,11 @@
+{
+    "ext_name": {
+        "message": "ワタミ大好き"
+    },
+    "ext_desc": {
+         "message": "閲覧中のページにあるワタミ系列のお店を強調表示します"
+    },
+    "this_is_a_watami_owned_restaurant": {
+         "message": "ワタミの お店です"
+    }
+}

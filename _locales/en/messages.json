@@ -1,0 +1,11 @@
+{
+    "ext_name": {
+        "message": "Watami Lover"
+    },
+    "ext_desc": {
+         "message": "Highlight if the current page has Watami-owned restaurants"
+    },
+    "this_is_a_watami_owned_restaurant": {
+         "message": "Watami restaurant"
+    }
+}

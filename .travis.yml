@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "6.1"
+before_install:
+  - npm install grunt
+  - npm install grunt-cli
+  - npm install qunit
+  - npm install grunt-contrib-qunit
+script: grunt test --verbose --force
